@@ -92,5 +92,5 @@ otra divisa y luego la cantidad a convertir</p>
 
 ## Insignia
 
-![insignia](https://github.com/Josuequezada17/Proyecto_Conversor/assets/83832151/28ca0a9b-4189-40bb-b3fb-7a29db082e50)
+![insignia](https://github.com/Josuequezada17/Challenge-api-divisas/src/com/jq/divisas/assets/Badge-Conversor.png)
 
