@@ -30,6 +30,14 @@ otra divisa y luego la cantidad a convertir</p>
 
 # <h3>⛽Recursos y materiales:</h3>
 
+# <h3> Documentación Oficial: </h3>
+<ul>
+<li>Class HttpClient</li>
+<li>Class HttpRequest</li>
+<li>Interfaz HttpResponse</li>
+<li>Class Scanner</li>
+</ul>
+
 <h3>Cursos</h3> 
 <ul>
   <li>https://app.aluracursos.com/course/java-creando-primera-aplicacion </li>
