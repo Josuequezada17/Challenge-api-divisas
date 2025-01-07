@@ -32,22 +32,22 @@ otra divisa y luego la cantidad a convertir</p>
 
 <h3>Cursos</h3> 
 <ul>
-  <li>[https://app.aluracursos.com/course/java-primeros-pasos](https://app.aluracursos.com/course/java-creando-primera-aplicacion) </li>
-  <li>[https://app.aluracursos.com/course/java-parte2-introduccion-orientada-objetos ](https://app.aluracursos.com/course/java-aplicando-orientacion-objetos)</li>
-  <li>[https://app.aluracursos.com/course/java-parte-3-entendiendo-herencia-interfaces](https://app.aluracursos.com/course/java-trabajar-listas-colecciones-datos) </li>
-  <li>[https://app.aluracursos.com/course/java-excepciones](https://app.aluracursos.com/course/java-consumir-api-escribir-archivos-manejar-errores) </li>
+  <li>https://app.aluracursos.com/course/java-creando-primera-aplicacion </li>
+  <li>https://app.aluracursos.com/course/java-aplicando-orientacion-objetos</li>
+  <li>https://app.aluracursos.com/course/java-trabajar-listas-colecciones-datos </li>
+  <li>https://app.aluracursos.com/course/java-consumir-api-escribir-archivos-manejar-errores </li>
  </ul>
 
 
 <h3>Artículos</h3>
 
 <ul>
-  <li>[https://www.aluracursos.com/blog/revisando-la-orientacion-a-objetos-encapsulacion-de-java](https://www.aluracursos.com/blog/revisando-la-orientacion-a-objetos-encapsulacion-de-java)</li>
-  <li>[https://www.aluracursos.com/blog/poo-que-es-la-programacion-orientada-a-objetos](https://www.aluracursos.com/blog/poo-que-es-la-programacion-orientada-a-objetos)</li>
-  <li>[https://www.aluracursos.com/blog/como-no-aprender-java-y-orientacion-a-objetos-getters-y-setters](https://www.aluracursos.com/blog/aumentando-tu-productividad-con-el-eclipse)</li>
-  <li>[https://www.aluracursos.com/blog/aumentando-tu-productividad-con-el-eclipse](https://www.aluracursos.com/blog/verificar-si-es-letra-o-numero-en-java)</li> 
-  <li>[https://www.aluracursos.com/blog/verificar-si-es-letra-o-numero-en-java<](https://www.aluracursos.com/blog/Importando-clases-en-java)/li>
-  <li>[https://www.aluracursos.com/blog/Importando-clases-en-java](https://www.aluracursos.com/blog/redondeo-y-numeros-gigantes-de-double-a-bigdecimal)</li>
+  <li>https://www.aluracursos.com/blog/revisando-la-orientacion-a-objetos-encapsulacion-de-java</li>
+  <li>https://www.aluracursos.com/blog/poo-que-es-la-programacion-orientada-a-objetos)</li>
+  <li>[https://www.aluracursos.com/blog/como-no-aprender-java-y-orientacion-a-objetos-getters-y-setters</li>
+  <li>https://www.aluracursos.com/blog/verificar-si-es-letra-o-numero-en-java</li> 
+  <li>https://www.aluracursos.com/blog/Importando-clases-en-java/li>
+  <li>https://www.aluracursos.com/blog/redondeo-y-numeros-gigantes-de-double-a-bigdecimal</li>
 </ul>
 
 <h3>Alura +</h3>
