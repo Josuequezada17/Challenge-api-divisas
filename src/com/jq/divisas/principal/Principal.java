@@ -18,10 +18,10 @@ public class Principal {
         String targetCurrency;
         double amount;
 
-        Divisas divisas = new Divisas();
+        Divisas listarDivisas = new Divisas();
 
         // Selección de moneda base
-        divisas.divisas();
+        listarDivisas.divisas();
         System.out.print("Seleccione la moneda base: ");
         baseCurrency = scanner.nextLine();
 
@@ -36,7 +36,7 @@ public class Principal {
         }
 
         // Selección de moneda destino
-        divisas.divisas();
+        listarDivisas.divisas();
         System.out.print("Seleccione la moneda destino: ");
         targetCurrency = scanner.nextLine();
 
@@ -69,6 +69,8 @@ public class Principal {
         Gson gson = new Gson();
         DivisasDTO divisasDTO = gson.fromJson(response.body(), DivisasDTO.class);
         System.out.println(divisasDTO);
+
+        Divisas divisas = new Divisas(divisasDTO);
 
         divisas.setAmount(amount);
         System.out.println(divisas);
