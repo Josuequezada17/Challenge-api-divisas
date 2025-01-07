@@ -91,6 +91,6 @@ otra divisa y luego la cantidad a convertir</p>
 [<img src="https://avatars.githubusercontent.com/u/83832151?v=4" width=115><br><sub>Angel Josue Quezada Lujan</sub>](https://github.com/Josuequezada17) 
 
 ## Insignia
+![Badge-Conversor](https://github.com/user-attachments/assets/0587ea62-97d3-4211-8957-fbf0f093ca17)
 
-![insignia](https://github.com/Josuequezada17/Challenge-api-divisas/src/com/jq/divisas/assets/Badge-Conversor.png)
 
